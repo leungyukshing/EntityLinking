@@ -5,9 +5,9 @@
 I need the following data before coding:
 
 + Employee Personal Information: done, provided by instructor
-+ Tencent Word Embedding Datasets
++ Tencent Word Embedding Datasets: done, download from: https://ai.tencent.com/ailab/nlp/embedding.html
 + Entity Lists
-  + Chinese University List: done,download fromhttp://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_gxsz/gxsz_xxmd/
+  + Chinese University List: done,download from: http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_gxsz/gxsz_xxmd/
   + Foreign University List (US, UK, etc)
 
 
