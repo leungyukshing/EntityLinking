@@ -28,7 +28,7 @@ do k-gram scan upon word list after word segmentation
 
 compare word and entity in each list.
 
-
+using cosine similarity
 
 ## Reference
 
