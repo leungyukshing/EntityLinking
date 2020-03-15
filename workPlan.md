@@ -52,6 +52,16 @@ using cosine similarity
 2. 解决公司名匹配问题：公司名字可以采用正则匹配。如上海xxx有限公司，xxx不用匹配，知道是公司名就可以。
 3. 结构化数据展示：【学校、学位】，【公司、职称】
 
+### 2020-03-19与老师第二次交流
+
+1. 添加时间：二元组->三元组
+2. metrics：
+   1. recall，在得出的结果中，有多少个是在groundtruth
+   2. NDCG
+   3. 排序：根据概率排序（有时间的、没时间的）
+   4. 精确匹配
+3. 可以开始论文写作
+
 ## Reference
 
 1. [n-gram python](https://blog.csdn.net/MrLevo520/article/details/52149545)
